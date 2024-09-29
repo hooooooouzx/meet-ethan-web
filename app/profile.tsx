@@ -11,7 +11,7 @@ const Profile = () => {
             />
             <div className="text-left">
                 <h1 className="text-5xl font-bold">Who Am I?</h1>
-                <p className="mt-2 text-xl">My name is Ethan, I'm a freelancer.</p>
+                <p className="mt-2 text-xl">My name is Ethan, I am a freelancer.</p>
             </div>
             </section>
 
