@@ -111,10 +111,10 @@ const Profile = () => {
               {[
                 'React | Next.js | Vue.js | Angular 8 | JavaScript | TypeScript',
                 'Kotlin | Swift | Flutter | React Native',
-                'UI/UX | Tailwind CSS | Styled Components | Sass',
+                'UI/UX | Tailwind CSS | Styled Components',
                 'JAVA | NodeJS | NestJS | TypeORM',
                 'MySQL | MongoDB | PostgreSQL',
-                'AWS Associate Solution Architect',
+                'AWS Associate Solution Architect | Sass',
                 'Blockchain Developer',
               ].map((skill) => (
                 <li key={skill} className="transition-transform transform hover:scale-105">
