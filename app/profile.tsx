@@ -57,7 +57,7 @@ const Profile = () => {
                 { 
                     name: 'Talkkia', 
                     link: 'https://talkkia.com', 
-                    description: 'Talkkia is a multipurpose communication app that lets people call, chat, and share moments completely free.It’s not just a variety of calling and messaging features we have, but our endless options that you’ll love.High quality voice and video calls' 
+                    description: 'Talkkia is a multipurpose communication app that lets people call, chat, and share moments completely free.It\'s not just a variety of calling and messaging features we have, but our endless options that you\'ll love.High quality voice and video calls' 
                 },
                 { 
                     name: 'Goofball', 
