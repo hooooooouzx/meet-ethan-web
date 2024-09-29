@@ -71,8 +71,8 @@ const Profile = () => {
                 },
                 { 
                     name: 'Leetcode Log', 
-                    alert: true, 
-                    description: 'A tool for tracking and managing your Leetcode coding problems and progress.' 
+                    link: 'https://github.com/hooooooouzx/leetcodeLog',
+                    description: 'A tool for tracking and managing my Leetcode coding problems and progress.' 
                 },
                 { 
                     name: 'Blockchain', 
