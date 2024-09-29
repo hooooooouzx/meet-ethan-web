@@ -47,7 +47,7 @@ const Profile = () => {
     
                 <section className="mb-8 text-center">
             <h2 className="text-4xl font-semibold border-b-2 border-white inline-block mb-4">Recent Projects</h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="mb-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {[
                 { 
                     name: 'chng.com', 
