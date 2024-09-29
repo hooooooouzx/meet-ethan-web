@@ -109,7 +109,8 @@ const Profile = () => {
             <h2 className="text-4xl font-semibold border-b-2 border-white inline-block mb-4">Skills</h2>
             <ul className="mt-4 space-y-2 text-left max-w-xl mx-auto">
               {[
-                'Flutter | React | Next.js | Vue.js | Angular 8 | JavaScript | TypeScript',
+                'React | Next.js | Vue.js | Angular 8 | JavaScript | TypeScript',
+                'Kotlin | Swift | Flutter | React Native',
                 'UI/UX | Tailwind CSS | Styled Components | Sass',
                 'JAVA | NodeJS | NestJS | TypeORM',
                 'MySQL | MongoDB | PostgreSQL',
