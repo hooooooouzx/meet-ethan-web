@@ -1,11 +1,8 @@
-import Image from "next/image";
-import { inter } from '@/app/ui/fonts';
+import Head from 'next/head';
+import Profile from './profile';
 
-
-export default function Home() {
+export default function Page(){
   return (
-    <div className={`${inter.className} antialiased`}>
-      Welcome to Ethan's Personal Website!
-    </div>
+    <Profile />
   );
 }
