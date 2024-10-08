@@ -111,8 +111,9 @@ const Profile = () => {
               {[
                 'React | Next.js | Vue.js | Angular 8 | JavaScript | TypeScript',
                 'Kotlin | Swift | Flutter | React Native',
-                'UI/UX | Tailwind CSS | Styled Components',
                 'JAVA | NodeJS | NestJS | TypeORM',
+                'UI/UX | Tailwind CSS | Styled Components',
+                'WrodPress | Liferay | Workflow',
                 'MySQL | MongoDB | PostgreSQL',
                 'AWS Associate Solution Architect | Sass',
                 'Blockchain Developer',
